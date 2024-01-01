@@ -1,0 +1,441 @@
+﻿no;bulan;tahun;nama;absen;total_paket;cod_tepat_waktu;rata-rata_waktu_pengantaran;paket_gagal_diantar;paket_dnr;Predikat_Karyawan
+1;Agustus;2022;Abdul Qodir;24;2812;20;8;123;23;Baik
+2;Agustus;2022;Rere Arsandi;24;2452;22;8;213;12;Cukup
+3;Agustus;2022;Supriadi;24;2532;19;7;167;15;Cukup
+4;Agustus;2022;Ferianto Limas;25;2452;21;6;132;12;Cukup
+5;Agustus;2022;Heru;26;2433;24;7;156;30;Cukup
+6;Agustus;2022;Bayu Pratama;25;2674;13;8;242;21;Cukup
+7;Agustus;2022;Reza Kurniawan;25;2456;21;8;265;22;Cukup
+8;Agustus;2022;Romi;24;1993;24;5;212;14;Kurang
+9;Agustus;2022;Julianto;22;2034;21;8;135;5;Kurang
+10;Agustus;2022;Rio Septian;21;2534;16;7;342;3;Cukup
+11;Agustus;2022;Rizki Septiadi;21;2465;12;6;312;16;Kurang
+12;Agustus;2022;Tirta Maulana;22;2754;18;7;265;33;Cukup
+13;Agustus;2022;Muhais;23;2134;21;5;277;21;Kurang
+14;Agustus;2022;Alamsyah;24;2686;19;6;231;16;Cukup
+15;Agustus;2022;David Nainggolan;24;2563;18;7;136;12;Cukup
+16;Agustus;2022;Barkah;24;2464;16;6;298;15;Cukup
+17;Agustus;2022;kris angga;24;2564;18;6;241;31;Cukup
+18;Agustus;2022;hidayatullah;26;2465;26;7;252;25;Cukup
+19;Agustus;2022;Chairul;25;2476;24;6;267;22;Cukup
+20;Agustus;2022;Julianda shaputra;24;2134;24;5;264;21;Kurang
+21;Agustus;2022;Mardiono;24;2434;22;6;243;11;Cukup
+22;Agustus;2022;Nanang Hamsyah;25;2768;24;7;215;16;Cukup
+23;Agustus;2022;Habib saufi;19;1987;12;8;242;9;Buruk
+24;Agustus;2022;muamar;19;1967;14;7;135;8;Kurang
+25;Agustus;2022;surip;16;1899;12;7;176;9;Buruk
+26;Agustus;2022;andi;18;1576;15;6;123;9;Buruk
+27;Agustus;2022;fauzi;19;1896;14;6;163;10;Buruk
+28;Agustus;2022;fauzi akbar;20;1635;20;7;45;17;Buruk
+29;Agustus;2022;angga;23;1745;20;8;235;19;Buruk
+30;Agustus;2022;safi'i;23;3012;21;7;122;9;Baik
+31;Agustus;2022;ade nova;23;2476;22;8;154;5;Cukup
+32;Agustus;2022;abdulah;24;2981;21;7;342;16;Baik
+33;Agustus;2022;mustaqim;24;2746;24;6;333;44;Cukup
+34;Agustus;2022;angga;24;2574;24;5;325;12;Cukup
+35;Agustus;2022;reza setiawan;24;2413;22;6;245;31;Kurang
+36;Agustus;2022;Ilham Maulidi;23;2244;21;12;121;18;Kurang
+37;Agustus;2022;Amirudin;22;2243;21;10;111;12;Kurang
+38;Agustus;2022;Heru Setiawan;22;2213;22;9;118;12;Kurang
+39;Agustus;2022;Tonny;21;2745;16;9;311;17;Cukup
+40;Agustus;2022;Elsan;22;2435;17;8;237;19;Cukup
+41;September;2022;Abdul Qodir;25;2410;25;8;231;28;Cukup
+42;September;2022;Rere Arsandi;19;2238;18;9;213;31;Kurang
+43;September;2022;Supriadi;24;2489;18;10;222;21;Cukup
+44;September;2022;Ferianto Limas;22;2349;20;6;235;6;Kurang
+45;September;2022;Heru;26;2237;13;8;276;12;Kurang
+46;September;2022;Bayu Pratama;27;1786;18;9;189;11;Buruk
+47;September;2022;Reza Kurniawan;22;1824;18;9;197;11;Buruk
+48;September;2022;Romi;23;2004;17;11;289;11;Buruk
+49;September;2022;Julianto;24;2236;17;8;199;17;Kurang
+50;September;2022;Rio Septian;25;2258;19;6;269;17;Kurang
+51;September;2022;Rizki Septiadi;23;1609;18;7;398;13;Buruk
+52;September;2022;Tirta Maulana;23;1749;15;8;253;8;Buruk
+53;September;2022;Muhais;24;1831;18;9;344;2;Buruk
+54;September;2022;Alamsyah;24;1941;19;8;276;6;Buruk
+55;September;2022;David Nainggolan;27;2042;20;7;213;8;Kurang
+56;September;2022;Barkah;29;2072;22;9;254;4;Kurang
+57;September;2022;kris angga;22;1696;22;8;331;7;Buruk
+58;September;2022;hidayatullah;28;2079;24;9;275;9;Kurang
+59;September;2022;Chairul;28;2405;26;6;432;8;Kurang
+60;September;2022;Julianda shaputra;26;2231;24;8;341;5;Kurang
+61;September;2022;Mardiono;27;1870;17;9;226;7;Buruk
+62;September;2022;Nanang Hamsyah;17;1490;13;11;277;3;Buruk
+63;September;2022;Habib saufi;19;1677;19;10;198;3;Buruk
+64;September;2022;muamar;15;1389;15;10;121;8;Buruk
+65;September;2022;surip;17;1600;16;11;224;6;Buruk
+66;September;2022;andi;18;1756;12;8;197;5;Buruk
+67;September;2022;fauzi;18;1680;11;9;121;7;Buruk
+68;September;2022;fauzi akbar;26;2009;15;6;111;9;Kurang
+69;September;2022;angga;26;2530;20;8;167;9;Cukup
+70;September;2022;safi'i;30;2975;15;9;295;6;Baik
+71;September;2022;ade nova;24;2019;20;8;167;8;Kurang
+72;September;2022;abdulah;24;1977;22;9;339;21;Buruk
+73;September;2022;mustaqim;21;1867;21;9;311;44;Buruk
+74;September;2022;angga;13;980;8;8;153;13;Buruk
+75;September;2022;reza setiawan;14;1221;8;9;398;1;Buruk
+76;September;2022;Ilham Maulidi;19;2189;11;7;357;5;Kurang
+77;September;2022;Amirudin;20;1577;19;8;432;9;Buruk
+78;September;2022;Heru Setiawan;22;1899;14;7;228;11;Buruk
+79;September;2022;Tonny;20;1789;11;11;254;17;Buruk
+80;September;2022;Elsan;21;1978;15;10;128;11;Kurang
+81;Oktober;2022;Abdul Qodir;21;2683;18;8;243;19;Cukup
+82;Oktober;2022;Rere Arsandi;22;2645;17;10;312;18;Cukup
+83;Oktober;2022;Supriadi;24;2980;10;6;231;12;Baik
+84;Oktober;2022;Ferianto Limas;22;2479;17;9;115;16;Cukup
+85;Oktober;2022;Heru;21;2314;16;10;235;10;Kurang
+86;Oktober;2022;Bayu Pratama;19;1987;13;6;245;12;Buruk
+87;Oktober;2022;Reza Kurniawan;24;2564;11;8;352;18;Cukup
+88;Oktober;2022;Romi;24;2433;21;9;344;13;Kurang
+89;Oktober;2022;Julianto;26;2759;11;9;321;16;Cukup
+90;Oktober;2022;Rio Septian;21;2189;18;8;231;12;Kurang
+91;Oktober;2022;Rizki Septiadi;25;2650;15;8;145;2;Cukup
+92;Oktober;2022;Tirta Maulana;23;2242;17;8;342;9;Kurang
+93;Oktober;2022;Muhais;11;1081;8;8;231;6;Buruk
+94;Oktober;2022;Alamsyah;26;2745;1;7;145;17;Baik
+95;Oktober;2022;David Nainggolan;22;2331;17;9;354;18;Kurang
+96;Oktober;2022;Barkah;23;2134;8;6;342;8;Kurang
+97;Oktober;2022;kris angga;25;2469;5;7;356;10;Kurang
+98;Oktober;2022;hidayatullah;21;1890;19;8;462;2;Buruk
+99;Oktober;2022;Chairul;15;1322;12;9;234;4;Buruk
+100;Oktober;2022;Julianda shaputra;18;1426;17;6;54;5;Buruk
+101;Oktober;2022;Mardiono;15;1226;12;7;236;3;Buruk
+102;Oktober;2022;Nanang Hamsyah;19;1988;15;8;322;11;Buruk
+103;Oktober;2022;Habib saufi;19;1758;17;8;121;13;Buruk
+104;Oktober;2022;muamar;18;1587;12;8;214;12;Buruk
+105;Oktober;2022;surip;19;1879;8;7;126;4;Buruk
+106;Oktober;2022;andi;24;2544;7;9;129;4;Cukup
+107;Oktober;2022;fauzi;22;2198;16;9;221;4;Kurang
+108;Oktober;2022;fauzi akbar;26;2387;15;6;164;7;Cukup
+109;Oktober;2022;angga;16;1332;12;8;412;3;Buruk
+110;Oktober;2022;safi'i;21;1946;8;9;261;4;Buruk
+111;Oktober;2022;ade nova;11;1095;11;9;332;6;Buruk
+112;Oktober;2022;abdulah;14;1066;12;7;322;4;Buruk
+113;Oktober;2022;mustaqim;18;1667;9;7;164;8;Buruk
+114;Oktober;2022;angga;24;2188;19;7;231;6;Kurang
+115;Oktober;2022;reza setiawan;23;2088;14;9;241;8;Kurang
+116;Oktober;2022;Ilham Maulidi;22;2031;18;8;421;2;Buruk
+117;Oktober;2022;Amirudin;26;2480;21;6;289;24;Cukup
+118;Oktober;2022;Heru Setiawan;19;1749;19;7;164;1;Buruk
+119;Oktober;2022;Tonny;18;1389;2;9;211;13;Buruk
+120;Oktober;2022;Elsan;19;1649;8;9;264;14;Buruk
+121;November;2022;Abdul Qodir;18;2100;14;8;314;2;Kurang
+122;November;2022;Rere Arsandi;19;2115;16;9;321;4;Kurang
+123;November;2022;Supriadi;20;2331;13;9;233;2;Kurang
+124;November;2022;Ferianto Limas;20;2241;19;9;214;3;Kurang
+125;November;2022;Heru;22;1994;15;9;165;1;Kurang
+126;November;2022;Bayu Pratama;19;1576;18;9;132;0;Buruk
+127;November;2022;Reza Kurniawan;23;2344;19;9;156;0;Cukup
+128;November;2022;Romi;18;2001;16;9;198;0;Kurang
+129;November;2022;Julianto;20;2311;20;6;213;0;Kurang
+130;November;2022;Rio Septian;23;2317;12;6;325;7;Kurang
+131;November;2022;Rizki Septiadi;22;2450;21;8;312;5;Kurang
+132;November;2022;Tirta Maulana;26;1877;25;7;79;5;Kurang
+133;November;2022;Muhais;21;1948;17;9;187;2;Kurang
+134;November;2022;Alamsyah;25;1899;16;7;153;18;Buruk
+135;November;2022;David Nainggolan;18;1934;14;6;337;10;Buruk
+136;November;2022;Barkah;19;1977;11;6;53;16;Kurang
+137;November;2022;kris angga;18;2100;16;7;187;3;Kurang
+138;November;2022;hidayatullah;21;1921;8;9;199;5;Buruk
+139;November;2022;Chairul;21;2086;9;7;199;19;Kurang
+140;November;2022;Julianda shaputra;22;2322;6;8;237;5;Kurang
+141;November;2022;Mardiono;23;2315;6;8;318;9;Kurang
+142;November;2022;Nanang Hamsyah;23;2346;22;8;128;8;Cukup
+143;November;2022;Habib saufi;21;2311;17;8;255;8;Kurang
+144;November;2022;muamar;25;2390;21;8;321;7;Kurang
+145;November;2022;surip;23;1978;21;7;232;9;Buruk
+146;November;2022;andi;22;1997;21;7;356;2;Buruk
+147;November;2022;fauzi;15;1566;9;9;177;20;Buruk
+148;November;2022;fauzi akbar;18;1766;8;9;185;18;Buruk
+149;November;2022;angga;19;1634;8;9;246;12;Buruk
+150;November;2022;safi'i;19;1648;6;7;377;17;Buruk
+151;November;2022;ade nova;19;1892;6;8;284;4;Buruk
+152;November;2022;abdulah;22;2100;5;8;214;8;Kurang
+153;November;2022;mustaqim;21;1867;16;8;321;12;Buruk
+154;November;2022;angga;23;2311;18;7;267;11;Kurang
+155;November;2022;reza setiawan;21;2006;19;7;54;11;Kurang
+156;November;2022;Ilham Maulidi;21;2096;19;9;346;15;Buruk
+157;November;2022;Amirudin;18;1580;9;6;98;3;Buruk
+158;November;2022;Heru Setiawan;19;1574;11;7;127;9;Buruk
+159;November;2022;Tonny;19;1489;16;8;328;0;Buruk
+160;November;2022;Elsan;22;1688;14;8;199;;Buruk
+161;Desember;2022;Abdul Qodir;23;2231;15;9;312;8;Kurang
+162;Desember;2022;Rere Arsandi;22;2341;21;8;223;4;Kurang
+163;Desember;2022;Supriadi;24;2422;20;8;125;5;Cukup
+164;Desember;2022;Ferianto Limas;24;1989;20;7;231;1;Kurang
+165;Desember;2022;Heru;24;2179;22;8;308;13;Kurang
+166;Desember;2022;Bayu Pratama;22;2552;21;8;221;1;Cukup
+167;Desember;2022;Reza Kurniawan;21;2134;17;9;326;2;Kurang
+168;Desember;2022;Romi;23;2462;19;9;421;8;Kurang
+169;Desember;2022;Julianto;22;2213;9;9;292;6;Kurang
+170;Desember;2022;Rio Septian;24;2542;6;7;165;6;Cukup
+171;Desember;2022;Rizki Septiadi;23;2331;16;6;144;5;Cukup
+172;Desember;2022;Tirta Maulana;23;2433;17;6;176;8;Cukup
+173;Desember;2022;Muhais;18;1980;13;8;121;3;Kurang
+174;Desember;2022;Alamsyah;18;1785;14;8;423;4;Buruk
+175;Desember;2022;David Nainggolan;15;1559;15;8;276;9;Buruk
+176;Desember;2022;Barkah;22;1997;21;8;222;9;Kurang
+177;Desember;2022;kris angga;24;2243;24;8;211;5;Kurang
+178;Desember;2022;hidayatullah;14;1563;14;9;274;6;Buruk
+179;Desember;2022;Chairul;25;2734;25;7;322;6;Cukup
+180;Desember;2022;Julianda shaputra;24;2522;20;8;428;11;Kurang
+181;Desember;2022;Mardiono;24;2643;9;10;168;14;Cukup
+182;Desember;2022;Nanang Hamsyah;22;2536;18;8;142;14;Cukup
+183;Desember;2022;Habib saufi;21;2116;12;8;167;13;Kurang
+184;Desember;2022;muamar;22;2315;17;8;177;1;Kurang
+185;Desember;2022;surip;23;2422;23;7;210;0;Cukup
+186;Desember;2022;andi;23;2178;17;9;221;0;Kurang
+187;Desember;2022;fauzi;22;2188;10;8;275;6;Kurang
+188;Desember;2022;fauzi akbar;25;2895;12;8;209;6;Baik
+189;Desember;2022;angga;21;2316;21;8;228;4;Kurang
+190;Desember;2022;safi'i;26;2876;19;7;100;2;Baik
+191;Desember;2022;ade nova;18;1689;9;6;98;2;Buruk
+192;Desember;2022;abdulah;19;2005;11;10;211;2;Kurang
+193;Desember;2022;mustaqim;19;1846;14;8;167;9;Buruk
+194;Desember;2022;angga;21;2111;7;8;192;6;Kurang
+195;Desember;2022;reza setiawan;18;1586;9;8;167;7;Buruk
+196;Desember;2022;Ilham Maulidi;20;2021;5;8;328;0;Buruk
+197;Desember;2022;Amirudin;22;2316;22;8;311;0;Kurang
+198;Desember;2022;Heru Setiawan;23;2188;21;8;280;0;Kurang
+199;Desember;2022;Tonny;23;2634;21;9;210;0;Cukup
+200;Desember;2022;Elsan;22;2390;22;9;228;1;Cukup
+201;Januari;2023;Abdul Qodir;22;2547;19;8;318;0;Cukup
+202;Januari;2023;Rere Arsandi;23;2513;16;8;217;8;Cukup
+203;Januari;2023;Supriadi;21;2422;21;8;176;2;Cukup
+204;Januari;2023;Ferianto Limas;21;2431;21;8;326;2;Kurang
+205;Januari;2023;Heru;22;2467;22;8;251;2;Cukup
+206;Januari;2023;Bayu Pratama;24;2672;24;8;289;2;Cukup
+207;Januari;2023;Reza Kurniawan;22;2315;21;8;317;6;Kurang
+208;Januari;2023;Romi;21;2143;18;7;225;9;Kurang
+209;Januari;2023;Julianto;23;2576;16;6;380;7;Cukup
+210;Januari;2023;Rio Septian;21;2412;19;7;214;10;Cukup
+211;Januari;2023;Rizki Septiadi;24;2753;21;9;321;11;Cukup
+212;Januari;2023;Tirta Maulana;22;2156;19;9;365;1;Kurang
+213;Januari;2023;Muhais;23;2433;9;9;311;15;Kurang
+214;Januari;2023;Alamsyah;22;2467;16;9;254;3;Cukup
+215;Januari;2023;David Nainggolan;22;2438;13;8;323;9;Kurang
+216;Januari;2023;Barkah;21;2376;18;8;211;0;Cukup
+217;Januari;2023;kris angga;24;2784;19;8;201;0;Baik
+218;Januari;2023;hidayatullah;23;2621;19;8;312;7;Cukup
+219;Januari;2023;Chairul;22;2341;22;9;221;5;Kurang
+220;Januari;2023;Julianda shaputra;21;2110;21;8;355;3;Kurang
+221;Januari;2023;Mardiono;23;2541;23;9;251;12;Cukup
+222;Januari;2023;Nanang Hamsyah;19;2276;19;7;278;19;Kurang
+223;Januari;2023;Habib saufi;21;2534;21;7;291;6;Cukup
+224;Januari;2023;muamar;23;2677;16;7;355;4;Cukup
+225;Januari;2023;surip;17;1950;13;8;275;9;Buruk
+226;Januari;2023;andi;15;1966;15;8;351;3;Buruk
+227;Januari;2023;fauzi;26;3017;9;9;224;4;Baik
+228;Januari;2023;fauzi akbar;24;2622;14;9;214;1;Cukup
+229;Januari;2023;angga;21;2471;14;9;351;1;Kurang
+230;Januari;2023;safi'i;23;2891;18;8;378;0;Cukup
+231;Januari;2023;ade nova;21;2632;11;9;214;0;Cukup
+232;Januari;2023;abdulah;19;2190;16;9;295;0;Kurang
+233;Januari;2023;mustaqim;23;2188;17;9;226;0;Kurang
+234;Januari;2023;angga;21;2318;13;8;426;7;Kurang
+235;Januari;2023;reza setiawan;24;2833;21;7;315;5;Cukup
+236;Januari;2023;Ilham Maulidi;21;2478;21;8;276;0;Cukup
+237;Januari;2023;Amirudin;21;2612;21;7;329;0;Cukup
+238;Januari;2023;Heru Setiawan;23;2536;14;7;103;7;Cukup
+239;Januari;2023;Tonny;22;2531;14;9;286;0;Cukup
+240;Januari;2023;Elsan;23;2725;18;9;317;8;Cukup
+241;Feburari;2023;Abdul Qodir;22;2143;18;8;253;0;Kurang
+242;Feburari;2023;Rere Arsandi;25;2499;20;8;221;0;Cukup
+243;Feburari;2023;Supriadi;24;2316;24;8;167;0;Cukup
+244;Feburari;2023;Ferianto Limas;21;2411;21;9;547;0;Kurang
+245;Feburari;2023;Heru;26;2341;26;7;317;0;Kurang
+246;Feburari;2023;Bayu Pratama;21;2412;21;8;123;3;Cukup
+247;Feburari;2023;Reza Kurniawan;24;2176;24;7;90;11;Kurang
+248;Feburari;2023;Romi;24;2645;22;7;254;7;Cukup
+249;Feburari;2023;Julianto;21;2018;14;7;156;5;Kurang
+250;Feburari;2023;Rio Septian;21;2315;21;9;198;0;Kurang
+251;Feburari;2023;Rizki Septiadi;18;2088;16;8;452;8;Buruk
+252;Feburari;2023;Tirta Maulana;21;1975;21;8;123;7;Kurang
+253;Feburari;2023;Muhais;22;1890;22;8;186;0;Buruk
+254;Feburari;2023;Alamsyah;23;2186;16;8;96;4;Kurang
+255;Feburari;2023;David Nainggolan;24;2657;19;8;634;5;Kurang
+256;Feburari;2023;Barkah;24;2517;10;9;148;0;Cukup
+257;Feburari;2023;kris angga;24;2136;21;8;168;0;Kurang
+258;Feburari;2023;hidayatullah;21;2317;21;9;497;0;Kurang
+259;Feburari;2023;Chairul;24;2854;24;9;358;5;Cukup
+260;Feburari;2023;Julianda shaputra;22;2178;22;9;322;3;Kurang
+261;Feburari;2023;Mardiono;19;2286;19;7;267;5;Kurang
+262;Feburari;2023;Nanang Hamsyah;21;1967;21;8;452;2;Buruk
+263;Feburari;2023;Habib saufi;24;2649;9;8;75;9;Baik
+264;Feburari;2023;muamar;24;2165;13;8;438;0;Buruk
+265;Feburari;2023;surip;22;2319;19;8;216;6;Kurang
+266;Feburari;2023;andi;24;2176;10;9;311;8;Kurang
+267;Feburari;2023;fauzi;23;1981;21;8;138;4;Kurang
+268;Feburari;2023;fauzi akbar;15;1755;15;7;195;10;Buruk
+269;Feburari;2023;angga;19;1792;11;8;163;3;Buruk
+270;Feburari;2023;safi'i;26;2947;12;7;194;9;Baik
+271;Feburari;2023;ade nova;21;2165;21;8;199;0;Kurang
+272;Feburari;2023;abdulah;24;2534;18;8;23;0;Cukup
+273;Feburari;2023;mustaqim;17;1954;17;9;524;11;Buruk
+274;Feburari;2023;angga;25;2467;21;8;275;16;Cukup
+275;Feburari;2023;reza setiawan;21;2100;21;9;327;22;Kurang
+276;Feburari;2023;Ilham Maulidi;23;2165;21;8;344;9;Kurang
+277;Feburari;2023;Amirudin;21;2189;8;8;252;6;Kurang
+278;Feburari;2023;Heru Setiawan;21;2101;19;8;246;4;Kurang
+279;Feburari;2023;Tonny;24;2188;15;8;362;0;Kurang
+280;Feburari;2023;Elsan;24;2642;18;9;328;15;Cukup
+281;Maret;2023;Abdul Qodir;21;2341;18;8;232;12;Kurang
+282;Maret;2023;Rere Arsandi;24;2534;14;8;235;1;Cukup
+283;Maret;2023;Supriadi;18;2145;18;8;421;4;Buruk
+284;Maret;2023;Ferianto Limas;23;2466;21;8;421;17;Kurang
+285;Maret;2023;Heru;21;2464;21;8;241;3;Cukup
+286;Maret;2023;Bayu Pratama;24;2313;6;7;314;0;Kurang
+287;Maret;2023;Reza Kurniawan;24;2562;4;7;213;0;Cukup
+288;Maret;2023;Romi;25;2416;9;9;155;6;Cukup
+289;Maret;2023;Julianto;25;2177;9;7;124;4;Kurang
+290;Maret;2023;Rio Septian;25;2442;16;9;163;6;Cukup
+291;Maret;2023;Rizki Septiadi;25;2686;21;7;167;19;Cukup
+292;Maret;2023;Tirta Maulana;24;2464;17;8;353;14;Kurang
+293;Maret;2023;Muhais;25;2478;13;8;351;19;Kurang
+294;Maret;2023;Alamsyah;25;3001;17;8;397;0;Baik
+295;Maret;2023;David Nainggolan;25;2978;14;9;242;0;Baik
+296;Maret;2023;Barkah;24;2756;18;8;372;0;Cukup
+297;Maret;2023;kris angga;24;2759;18;8;246;7;Cukup
+298;Maret;2023;hidayatullah;22;1980;22;8;362;5;Buruk
+299;Maret;2023;Chairul;23;2100;23;7;387;0;Buruk
+300;Maret;2023;Julianda shaputra;21;2189;21;7;286;7;Kurang
+301;Maret;2023;Mardiono;23;2314;23;8;327;19;Kurang
+302;Maret;2023;Nanang Hamsyah;24;2314;22;10;215;17;Kurang
+303;Maret;2023;Habib saufi;25;2145;17;9;262;18;Kurang
+304;Maret;2023;muamar;25;3100;15;9;397;11;Baik
+305;Maret;2023;surip;21;2153;19;8;286;17;Kurang
+306;Maret;2023;andi;19;2188;16;8;299;5;Kurang
+307;Maret;2023;fauzi;23;2145;12;9;212;9;Kurang
+308;Maret;2023;fauzi akbar;24;2534;19;8;154;8;Cukup
+309;Maret;2023;angga;24;2686;11;7;275;5;Cukup
+310;Maret;2023;safi'i;21;2425;9;8;154;3;Cukup
+311;Maret;2023;ade nova;18;1869;18;8;167;8;Buruk
+312;Maret;2023;abdulah;16;1975;16;8;325;0;Buruk
+313;Maret;2023;mustaqim;25;2953;25;7;244;0;Baik
+314;Maret;2023;angga;25;2516;25;7;215;0;Cukup
+315;Maret;2023;reza setiawan;25;2879;17;8;164;6;Baik
+316;Maret;2023;Ilham Maulidi;24;2156;16;8;147;16;Kurang
+317;Maret;2023;Amirudin;23;2631;12;9;288;0;Cukup
+318;Maret;2023;Heru Setiawan;24;2445;17;8;326;2;Kurang
+319;Maret;2023;Tonny;24;2164;16;9;185;0;Kurang
+320;Maret;2023;Elsan;25;2976;25;9;196;0;Baik
+321;April;2023;Abdul Qodir;19;1879;14;9;231;8;Buruk
+322;April;2023;Rere Arsandi;18;2167;18;8;324;9;Kurang
+323;April;2023;Supriadi;21;2155;12;8;212;2;Kurang
+324;April;2023;Ferianto Limas;16;1896;15;8;233;17;Buruk
+325;April;2023;Heru;19;2166;12;9;423;4;Buruk
+326;April;2023;Bayu Pratama;20;2184;12;9;125;6;Kurang
+327;April;2023;Reza Kurniawan;21;1970;15;8;241;9;Buruk
+328;April;2023;Romi;20;2088;17;7;215;0;Kurang
+329;April;2023;Julianto;17;1674;11;8;211;0;Buruk
+330;April;2023;Rio Septian;18;1979;15;8;154;0;Kurang
+331;April;2023;Rizki Septiadi;21;2175;20;8;89;0;Kurang
+332;April;2023;Tirta Maulana;20;2033;19;8;231;0;Kurang
+333;April;2023;Muhais;18;1979;14;9;164;0;Kurang
+334;April;2023;Alamsyah;19;1806;16;7;123;8;Buruk
+335;April;2023;David Nainggolan;16;2188;15;7;178;7;Kurang
+336;April;2023;Barkah;19;1789;14;8;316;6;Buruk
+337;April;2023;kris angga;21;2316;9;8;242;5;Kurang
+338;April;2023;hidayatullah;22;2341;16;8;124;4;Cukup
+339;April;2023;Chairul;21;2643;19;9;175;8;Cukup
+340;April;2023;Julianda shaputra;19;2165;17;9;143;0;Kurang
+341;April;2023;Mardiono;19;2186;17;8;165;0;Kurang
+342;April;2023;Nanang Hamsyah;19;2264;18;9;188;6;Kurang
+343;April;2023;Habib saufi;18;2166;12;7;145;3;Kurang
+344;April;2023;muamar;19;2375;12;8;174;3;Cukup
+345;April;2023;surip;16;1869;11;8;122;3;Buruk
+346;April;2023;andi;17;1675;17;8;179;6;Buruk
+347;April;2023;fauzi;21;2474;19;7;93;5;Cukup
+348;April;2023;fauzi akbar;18;1856;17;7;106;9;Buruk
+349;April;2023;angga;19;1986;19;9;265;9;Buruk
+350;April;2023;safi'i;19;2216;18;9;126;7;Kurang
+351;April;2023;ade nova;16;1637;16;8;183;5;Buruk
+352;April;2023;abdulah;17;1785;17;8;163;0;Buruk
+353;April;2023;mustaqim;19;2375;19;7;189;0;Cukup
+354;April;2023;angga;21;2436;12;9;133;0;Cukup
+355;April;2023;reza setiawan;21;2175;17;7;91;4;Kurang
+356;April;2023;Ilham Maulidi;17;1967;17;7;100;5;Kurang
+357;April;2023;Amirudin;18;1935;18;8;214;7;Buruk
+358;April;2023;Heru Setiawan;19;1953;19;8;211;8;Buruk
+359;April;2023;Tonny;19;2185;19;8;215;8;Kurang
+360;April;2023;Elsan;19;2217;16;8;174;5;Kurang
+361;Mei;2023;Abdul Qodir;25;2645;21;8;190;0;Cukup
+362;Mei;2023;Rere Arsandi;23;2752;23;8;97;6;Baik
+363;Mei;2023;Supriadi;25;2856;25;8;110;2;Baik
+364;Mei;2023;Ferianto Limas;23;2642;23;8;123;0;Cukup
+365;Mei;2023;Heru;21;2377;21;8;362;1;Kurang
+366;Mei;2023;Bayu Pratama;16;1685;16;7;235;1;Buruk
+367;Mei;2023;Reza Kurniawan;23;2415;5;7;126;4;Cukup
+368;Mei;2023;Romi;23;2521;23;7;261;3;Cukup
+369;Mei;2023;Julianto;21;2155;6;8;266;1;Kurang
+370;Mei;2023;Rio Septian;25;2782;17;9;161;9;Baik
+371;Mei;2023;Rizki Septiadi;25;2654;18;8;266;3;Cukup
+372;Mei;2023;Tirta Maulana;24;2527;21;8;255;4;Cukup
+373;Mei;2023;Muhais;23;2144;19;8;367;1;Kurang
+374;Mei;2023;Alamsyah;24;2642;24;9;189;1;Cukup
+375;Mei;2023;David Nainggolan;24;2734;21;9;90;0;Baik
+376;Mei;2023;Barkah;24;2632;24;9;100;0;Cukup
+377;Mei;2023;kris angga;24;2614;24;9;247;9;Cukup
+378;Mei;2023;hidayatullah;23;2533;23;8;271;6;Cukup
+379;Mei;2023;Chairul;25;2741;25;7;432;6;Cukup
+380;Mei;2023;Julianda shaputra;21;2645;21;8;175;4;Cukup
+381;Mei;2023;Mardiono;20;2153;16;7;187;9;Kurang
+382;Mei;2023;Nanang Hamsyah;25;2641;15;7;147;2;Cukup
+383;Mei;2023;Habib saufi;16;1965;16;7;197;2;Kurang
+384;Mei;2023;muamar;19;2197;2;8;122;0;Kurang
+385;Mei;2023;surip;25;2753;18;8;164;0;Baik
+386;Mei;2023;andi;21;2416;21;9;174;3;Cukup
+387;Mei;2023;fauzi;24;2862;17;9;177;1;Baik
+388;Mei;2023;fauzi akbar;25;2753;18;9;285;1;Cukup
+389;Mei;2023;angga;23;2634;22;8;169;8;Cukup
+390;Mei;2023;safi'i;25;2613;16;8;311;2;Cukup
+391;Mei;2023;ade nova;26;2742;19;8;218;0;Cukup
+392;Mei;2023;abdulah;26;2894;3;8;177;0;Baik
+393;Mei;2023;mustaqim;21;2631;21;8;196;0;Cukup
+394;Mei;2023;angga;21;2153;8;8;92;6;Kurang
+395;Mei;2023;reza setiawan;24;2534;14;7;105;3;Cukup
+396;Mei;2023;Ilham Maulidi;21;2421;21;7;105;3;Cukup
+397;Mei;2023;Amirudin;24;2744;21;8;200;6;Cukup
+398;Mei;2023;Heru Setiawan;26;2832;20;9;190;2;Baik
+399;Mei;2023;Tonny;25;2623;25;9;202;1;Cukup
+400;Mei;2023;Elsan;21;2412;21;9;322;1;Kurang
+401;Juni;2023;Abdul Qodir;24;2643;17;8;167;1;Cukup
+402;Juni;2023;Rere Arsandi;25;2447;13;9;199;2;Cukup
+403;Juni;2023;Supriadi;23;2621;23;8;156;0;Cukup
+404;Juni;2023;Ferianto Limas;26;2894;2;8;216;1;Baik
+405;Juni;2023;Heru;24;2417;16;9;155;1;Cukup
+406;Juni;2023;Bayu Pratama;23;2611;23;9;148;3;Cukup
+407;Juni;2023;Reza Kurniawan;23;2145;13;9;362;1;Kurang
+408;Juni;2023;Romi;24;2531;15;8;344;4;Cukup
+409;Juni;2023;Julianto;24;2461;12;8;278;5;Cukup
+410;Juni;2023;Rio Septian;25;2644;15;8;222;5;Cukup
+411;Juni;2023;Rizki Septiadi;26;2895;12;8;154;2;Baik
+412;Juni;2023;Tirta Maulana;26;2946;9;7;177;7;Baik
+413;Juni;2023;Muhais;25;2869;9;8;145;3;Baik
+414;Juni;2023;Alamsyah;24;3002;12;7;186;3;Baik
+415;Juni;2023;David Nainggolan;25;2978;23;8;263;2;Baik
+416;Juni;2023;Barkah;26;3018;26;9;213;7;Baik
+417;Juni;2023;kris angga;24;2648;24;8;144;1;Cukup
+418;Juni;2023;hidayatullah;21;2562;20;8;142;1;Cukup
+419;Juni;2023;Chairul;18;2421;13;8;244;0;Cukup
+420;Juni;2023;Julianda shaputra;23;2751;21;8;242;0;Cukup
+421;Juni;2023;Mardiono;15;1964;15;7;266;0;Buruk
+422;Juni;2023;Nanang Hamsyah;24;2724;4;8;323;8;Cukup
+423;Juni;2023;Habib saufi;24;2527;23;8;256;5;Cukup
+424;Juni;2023;muamar;27;3127;21;7;211;5;Baik
+425;Juni;2023;surip;24;2518;21;7;254;0;Cukup
+426;Juni;2023;andi;21;2235;21;7;119;2;Kurang
+427;Juni;2023;fauzi;24;2742;15;8;158;0;Baik
+428;Juni;2023;fauzi akbar;24;2616;22;9;153;0;Cukup
+429;Juni;2023;angga;25;2842;18;9;245;0;Baik
+430;Juni;2023;safi'i;24;3196;24;8;363;2;Baik
+431;Juni;2023;ade nova;19;2164;19;8;164;0;Kurang
+432;Juni;2023;abdulah;21;2455;16;7;112;3;Cukup
+433;Juni;2023;mustaqim;27;3099;23;8;124;2;Baik
+434;Juni;2023;angga;18;2107;17;8;104;2;Kurang
+435;Juni;2023;reza setiawan;16;1893;2;8;88;1;Kurang
+436;Juni;2023;Ilham Maulidi;17;1956;17;8;190;1;Kurang
+437;Juni;2023;Amirudin;17;1757;17;8;326;2;Buruk
+438;Juni;2023;Heru Setiawan;23;2514;21;8;355;0;Cukup
+439;Juni;2023;Tonny;26;3121;26;8;436;0;Baik
+440;Juni;2023;Elsan;23;1674;15;7;235;0;Buruk
