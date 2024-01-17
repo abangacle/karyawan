@@ -10,7 +10,7 @@ def predict_predikat_karyawan(data, model):
     prediction = model.predict(data)
     return prediction[0]
 
-# Menampilkan confusion matrix
+# Fungsi untuk menampilkan confusion matrix
 def show_confusion_matrix(y_true, y_pred):
     cm = confusion_matrix(y_true, y_pred)
     fig, ax = plt.subplots(figsize=(8, 6))
@@ -23,7 +23,7 @@ with open('decision_tree_model.pickle', 'rb') as file:
 
 # Tampilan aplikasi Streamlit
 st.title('Aplikasi Penilaian Predikat Karyawan')
-st.write("Selamat datang di Aplikasi Penilaian Predikat Karyawan. Aplikasi ini menggunakan model Decision Tree untuk memPenilaian predikat karyawan berdasarkan beberapa variabel.")
+st.write("Selamat datang di Aplikasi Penilaian Predikat Karyawan. Aplikasi ini menggunakan model Decision Tree untuk memPrediksi predikat karyawan berdasarkan beberapa variabel.")
 
 # Formulir untuk pengisian data karyawan
 st.sidebar.header('Menu')
@@ -68,7 +68,6 @@ elif menu_selection == 'Akurasi dan Confusion Matrix':
     
     data_evaluasi = data_evaluasi.fillna(0)  # Mengganti NaN dengan nilai 0
 
-
     # Memisahkan data menjadi fitur (X) dan label (y)
     X_eval = data_evaluasi[fitur]
     y_true = data_evaluasi['Predikat_Karyawan']
@@ -82,4 +81,3 @@ elif menu_selection == 'Akurasi dan Confusion Matrix':
 
     # Menampilkan confusion matrix
     show_confusion_matrix(y_true, y_pred)
-    st.pyplot()
