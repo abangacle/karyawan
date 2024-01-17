@@ -10,12 +10,12 @@ def predict_predikat_karyawan(data, model):
     prediction = model.predict(data)
     return prediction[0]
 
-# Fungsi untuk menampilkan confusion matrix
+# Menampilkan confusion matrix
 def show_confusion_matrix(y_true, y_pred):
     cm = confusion_matrix(y_true, y_pred)
-    plt.figure(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(8, 6))
     sns.heatmap(cm, annot=True, fmt='g', cmap='Blues', xticklabels=['Baik', 'Cukup', 'Kurang', 'Buruk'], yticklabels=['Baik', 'Cukup', 'Kurang', 'Buruk'])
-    st.pyplot()
+    st.pyplot(fig)
 
 # Membaca model dari file pickle
 with open('decision_tree_model.pickle', 'rb') as file:
